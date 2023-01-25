@@ -233,12 +233,13 @@ tr {
       text-align: center; 
       position:relative!important; display: inline-block!important;
       top: 30px;
+      left: 70px;
       border-style: solid; 
       width: 60%; padding-left: 0!important; padding-right: 0!important; 
       margin-bottom: 10px; 
       padding: 15px 44px; border-color: #262322; border-width: 0px; 
       border-radius: 1000px; 
-      background: linear-gradient(to bottom, #ed704a 40%, #c24e2b 100%); 
+      background: linear-gradient(to bottom, #fc92eb 40%, #f76ae1 100%); 
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
       text-decoration: none!important;
     }
